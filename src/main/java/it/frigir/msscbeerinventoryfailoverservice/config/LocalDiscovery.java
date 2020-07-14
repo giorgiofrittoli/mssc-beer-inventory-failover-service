@@ -8,5 +8,4 @@ import org.springframework.context.annotation.Profile;
 @EnableDiscoveryClient
 @Configuration
 public class LocalDiscovery {
-
 }
